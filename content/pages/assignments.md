@@ -10,7 +10,52 @@ Each student will also be expected to complete one substantial research paper on
 
 Sample work appears courtesy of the student indicated below. Used with permission.
 
-| STUDENT | ASSIGNMENTS |
-| --- | --- |
-| Virginia Corless (2003) |  {{< br >}}{{< br >}} Literature Review ([PDF]({{< baseurl >}}/resources/litreview)) {{< br >}}{{< br >}} Preliminary Bibliography ([PDF]({{< baseurl >}}/resources/prelmbiblography)) {{< br >}}{{< br >}} Final Bibliography ([PDF]({{< baseurl >}}/resources/finalbiblography)) {{< br >}}{{< br >}}  |
-| Anonymous Student (2004) |  {{< br >}}{{< br >}} Literature Review ([PDF]({{< baseurl >}}/resources/medreview)) {{< br >}}{{< br >}} Preliminary Bibliography ([PDF]({{< baseurl >}}/resources/literaturereview)) {{< br >}}{{< br >}} Final Bibliography ([PDF]({{< baseurl >}}/resources/medievalpaper)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENT
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Virginia Corless (2003)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Literature Review ([PDF]({{< baseurl >}}/resources/litreview))
+
+Preliminary Bibliography ([PDF]({{< baseurl >}}/resources/prelmbiblography))
+
+Final Bibliography ([PDF]({{< baseurl >}}/resources/finalbiblography))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anonymous Student (2004)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Literature Review ([PDF]({{< baseurl >}}/resources/medreview))
+
+Preliminary Bibliography ([PDF]({{< baseurl >}}/resources/literaturereview))
+
+Final Bibliography ([PDF]({{< baseurl >}}/resources/medievalpaper))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

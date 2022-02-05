@@ -21,11 +21,48 @@ Grading
 
 Students grades are based on the following criteria:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Paper (5% reflects bibliography and 10% reflects first presentation) | 55% |
-| Participation in Weekly Discussion, Demonstrating Mastery of the Assigned Reading | 30% |
-| Leadership of Class Discussion | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (5% reflects bibliography and 10% reflects first presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in Weekly Discussion, Demonstrating Mastery of the Assigned Reading
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Leadership of Class Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Plagiarism
 ----------
