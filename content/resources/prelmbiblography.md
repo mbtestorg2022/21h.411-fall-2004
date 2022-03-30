@@ -4,6 +4,7 @@ description: This resource explains the familial relationships, and the way that
   harsh living conditions of the period affected family structure and relationships.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-411-history-of-western-thought-500-1300-fall-2004/47c33f9406a903613d3bca4f2afe3fc7_prelmbiblography.pdf
 file_type: application/pdf
+parent_uid: ae986cb7-5e45-240f-e419-09704ab5217c
 resourcetype: Document
 title: prelmbiblography.pdf
 uid: 47c33f94-06a9-0361-3d3b-ca4f2afe3fc7
